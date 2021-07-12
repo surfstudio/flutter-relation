@@ -274,7 +274,7 @@ dependencies:
 
 You can use both `stable` and `dev` versions of the package listed above in the badges bar.
 
-## Changelog
+## Changelog!
 
 All notable changes to this project will be documented in [this file](./CHANGELOG.md).
 
