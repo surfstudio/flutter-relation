@@ -10,7 +10,7 @@ This package is part of the [SurfGear](https://github.com/surfstudio/SurfGear) t
 
 ![Relation Cover](https://i.ibb.co/f1yC8d5/relation-logo.png)
 
-## About
+## Description
 
 Two-way communication channels for transferring data between different architectural layers of a Flutter application.
 
@@ -21,7 +21,7 @@ Two-way communication channels for transferring data between different architect
 - React to the data state changes and redraw UI using `StreamedState` together with `StreamedStateBuilder` and its variations;
 - Manage the screen state easily with a special stream that handles three predefined states: data, loading, error.
 
-## Usage
+## Example
 
 ### Notify and react
 
